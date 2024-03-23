@@ -1,1 +1,1 @@
-const newFeature
+const newFeature = 'asd';
